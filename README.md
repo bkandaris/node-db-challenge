@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+A DBMS such as SQLITE3 is for users to communicate with a database where a relational database is a collection of related tables.
+
 - [ ] Why do tables need a `primary key`?
+
+This makes adding and retrieving data from a table more organized.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+A foreign key is used to link two tables
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+A third table ("go between" table)
 
 ## Minimum Viable Product
 
